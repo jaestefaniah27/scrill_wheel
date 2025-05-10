@@ -707,9 +707,9 @@ static esp_hid_device_config_t bt_hid_config = {
     .vendor_id          = 0x16C0,
     .product_id         = 0x05DF,
     .version            = 0x0100,
-    .device_name        = "ESP BT HID1",
-    .manufacturer_name  = "Espressif",
-    .serial_number      = "1234567890",
+    .device_name        = "Jorgerente HID device",
+    .manufacturer_name  = "Jorgerente",
+    .serial_number      = "33",
     .report_maps        = bt_report_maps,
     .report_maps_len    = 1
 };

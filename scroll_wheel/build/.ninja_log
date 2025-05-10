@@ -1248,3 +1248,20 @@
 284647	285113	7686004911040075	C:/Users/jaest/OneDrive/Documentos/ESP-32 Projects/scroll_wheel/scrill_wheel/scroll_wheel/build/.bin_timestamp	a7af61806dbe19f6
 285113	285235	0	esp-idf/esptool_py/CMakeFiles/app_check_size	c4bacb0868c85417
 285113	285235	0	C:/Users/jaest/OneDrive/Documentos/ESP-32 Projects/scroll_wheel/scrill_wheel/scroll_wheel/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c4bacb0868c85417
+148	349	7686003375861184	bootloader-prefix/src/bootloader-stamp/bootloader-build	3d702d294807f789
+148	349	7686003375861184	bootloader/bootloader.elf	3d702d294807f789
+148	349	7686003375861184	bootloader/bootloader.bin	3d702d294807f789
+148	349	7686003375861184	bootloader/bootloader.map	3d702d294807f789
+148	349	7686003375861184	C:/Users/jaest/OneDrive/Documentos/ESP-32 Projects/scroll_wheel/scrill_wheel/scroll_wheel/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	3d702d294807f789
+148	349	7686003375861184	C:/Users/jaest/OneDrive/Documentos/ESP-32 Projects/scroll_wheel/scrill_wheel/scroll_wheel/build/bootloader/bootloader.elf	3d702d294807f789
+148	349	7686003375861184	C:/Users/jaest/OneDrive/Documentos/ESP-32 Projects/scroll_wheel/scrill_wheel/scroll_wheel/build/bootloader/bootloader.bin	3d702d294807f789
+148	349	7686003375861184	C:/Users/jaest/OneDrive/Documentos/ESP-32 Projects/scroll_wheel/scrill_wheel/scroll_wheel/build/bootloader/bootloader.map	3d702d294807f789
+155	496	7686008606753882	esp-idf/main/CMakeFiles/__idf_main.dir/esp_hid_device_main.c.obj	7d23b6819e146770
+497	600	7686008607802526	esp-idf/main/libmain.a	d6e1a2b8a95683cb
+600	13167	7686008733196416	esp-idf/esp_system/ld/sections.ld	3b46bf074e21ebf4
+600	13167	7686008733196416	C:/Users/jaest/OneDrive/Documentos/ESP-32 Projects/scroll_wheel/scrill_wheel/scroll_wheel/build/esp-idf/esp_system/ld/sections.ld	3b46bf074e21ebf4
+13167	18120	7686008782230328	scroll_wheel.elf	238a86babeadf248
+18121	18894	7686008790755725	.bin_timestamp	a7af61806dbe19f6
+18121	18894	7686008790755725	C:/Users/jaest/OneDrive/Documentos/ESP-32 Projects/scroll_wheel/scrill_wheel/scroll_wheel/build/.bin_timestamp	a7af61806dbe19f6
+18894	19020	0	esp-idf/esptool_py/CMakeFiles/app_check_size	c4bacb0868c85417
+18894	19020	0	C:/Users/jaest/OneDrive/Documentos/ESP-32 Projects/scroll_wheel/scrill_wheel/scroll_wheel/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c4bacb0868c85417
